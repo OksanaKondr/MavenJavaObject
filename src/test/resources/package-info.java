@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author okondratovych
+ *
+ */
+package JavaObject;
